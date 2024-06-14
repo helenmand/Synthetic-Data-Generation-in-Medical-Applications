@@ -1,4 +1,8 @@
 # Synthetic Data Generation in Medical Applications
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/helenmand/project-in-advanced-topics-in-ML-DWS-SS24/blob/main/assets/wgangpgif2.gif" alt="First GIF" style="width: 48%;">
+  <img src="https://github.com/helenmand/project-in-advanced-topics-in-ML-DWS-SS24/blob/main/assets/wgangpgif2.gif" alt="Second GIF" style="width: 48%;">
+</div>
 
 ![](https://github.com/helenmand/project-in-advanced-topics-in-ML-DWS-SS24/blob/main/assets/wgangpgif2.gif)
 
