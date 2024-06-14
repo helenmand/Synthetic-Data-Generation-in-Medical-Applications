@@ -1,10 +1,10 @@
 # Synthetic Data Generation in Medical Applications
 
-# WGAN-GP training
 ![](https://github.com/helenmand/project-in-advanced-topics-in-ML-DWS-SS24/blob/main/assets/wgangpgif2.gif)
 
----
-## Datasets
+## About
+In our project, "Synthetic Data Generation in Medical Applications," we explored the generation of synthetic datasets to address the challenges of privacy and accessibility in healthcare data. 
+The dataset we used are the following:
 
 | Type       | Dataset Name                                            
 |------------|---------------------------------------------------------
@@ -14,5 +14,18 @@
 |            | [Diabetes](https://archive.ics.uci.edu/dataset/34/diabetes)          |
 | **Images** |[KneeXrayOA-simple](https://www.kaggle.com/datasets/tommyngx/kneexrayoa-simple?resource=download) |
 |            |[ChestXRay Pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)        |
+
+Our methodology included:
+- for Tabular Data
+  - Advanced Methods like GANs (CTGANSynthesizer, TVAESynthesizer, CopulaGANSynthesizer, and medGAN)
+  - Statistical Methods (SMOTE, GaussianCopulaSynthesizer) 
+
+- for Time series:
+  - PARSynthesizer 
+
+- for Images:
+  - WGAN and
+  - WGAN-GP
+---
 
 
