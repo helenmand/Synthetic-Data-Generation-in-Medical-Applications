@@ -27,6 +27,4 @@ Our methodology included:
 - for Images:
   - WGAN and
   - WGAN-GP
----
-
 
